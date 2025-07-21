@@ -35,3 +35,6 @@ Project Highlights:
 ✅ Designed clean and interactive visuals for player/team comparisons
 ✅ Published as a reusable .pbit template for future updates
 
+screenshots:
+https://github.com/y0gesh6908/IPL-dashboard/blob/main/IPL%20Dashboard.png
+
